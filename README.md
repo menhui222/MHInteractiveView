@@ -2,8 +2,7 @@
 
 
 #Effect
-<video src="./video.mov" width="375" height="668" controls="controls">Your browser does not support the video tag.
-</video>
+![MHInteractiveView](https://github.com/menhui222/MHInteractiveView/menhui222/master/MHInteractiveView/Untitled.gif)
 
 #Cocoapods
 
