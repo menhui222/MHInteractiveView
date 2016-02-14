@@ -2,7 +2,7 @@
 
 
 #Effect
-![MHInteractiveView](https://github.com/menhui222/MHInteractiveView/menhui222/master/MHInteractiveView/Untitled.gif)
+![MHInteractiveView](https://github.com/menhui222/MHInteractiveView/blob/master/Untitled.gif)
 
 #Cocoapods
 
